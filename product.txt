@@ -1,1 +1,2 @@
 This is product page.
+Adding another product to WIP branch.
